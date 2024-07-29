@@ -99,6 +99,18 @@ section h1 {
     cursor: pointer;
 }
 
+.html:hover {
+    transform: scale(1.15);
+}
+
+.css:hover {
+    transform: scale(1.15);
+}
+
+.js:hover {
+    transform: scale(1.15);
+}
+
 footer {
     width: 100vw;
     height: 100px;
